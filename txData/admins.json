@@ -1,0 +1,172 @@
+[
+  {
+    "$schema": 1,
+    "name": "TextRead",
+    "master": true,
+    "password_hash": "$2a$11$sCbaLosX.nXu.bu3FD0pjeKn4O3U5crecyf4Ep7ibiveVde8DA1US",
+    "providers": {
+      "citizenfx": {
+        "id": "TextRead",
+        "identifier": "fivem:12402776",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "Text",
+    "master": false,
+    "password_hash": "$2a$11$8dMrefZiu7SXC9H1/oor3OSVrkOizTWzjyvVXx1eD4FyL/J.ADE7m",
+    "providers": {
+      "discord": {
+        "id": "466405432135516161",
+        "identifier": "discord:466405432135516161",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Genzo",
+    "master": false,
+    "password_hash": "$2a$11$eZnj2n1RDYxaLzpjW/YXx.8v.wjwCJPbdaIMnDiNSNDNftgaqzqZm",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "619887560248000523",
+        "identifier": "discord:619887560248000523",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Scully",
+    "master": false,
+    "password_hash": "$2a$11$2PVm8vzvSbTPvdR/GGx61.xSPL.YPWvFzE5wB3tdXlP.DdkTAqLbi",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "1163996774810255441",
+        "identifier": "discord:1163996774810255441",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Sky",
+    "master": false,
+    "password_hash": "$2a$11$Q6bWTpOUBXFDUOv8nFDqtuYQfn479sNohcjJcbqBCCuPvbZUT7OwG",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "1271678359893708831",
+        "identifier": "discord:1271678359893708831",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Jolie",
+    "master": false,
+    "password_hash": "$2a$11$Ce/D1pvpSzSRssFLv0EYx.1kdaAmL3hfg56lF/p5ZFCAAccYtN8qW",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "891956701924818964",
+        "identifier": "discord:891956701924818964",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "XAV",
+    "master": false,
+    "password_hash": "$2a$11$ptGFFhEE6z9uC7HPKrLZPe3ypY06oNw6SCclQZQ17yJlULVf00t8O",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "561911259054866433",
+        "identifier": "discord:561911259054866433",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Meech",
+    "master": false,
+    "password_hash": "$2a$11$84gXezjHnTCX0koCpKleYO9YSddzzepyu7K95ngxcj6EwYBLsNl2.",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "1265281960515862558",
+        "identifier": "discord:1265281960515862558",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "Risk",
+    "master": false,
+    "password_hash": "$2a$11$oXqRaWJg5AAgm0Bi0Xb7ZuZiwNHGOzue5CWNX9Cg6ZyqC9dpHV0tG",
+    "providers": {
+      "discord": {
+        "id": "1266191632085160010",
+        "identifier": "discord:1266191632085160010",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "$schema": 1,
+    "name": "ayoque",
+    "master": false,
+    "password_hash": "$2a$11$9eJU3njpoOWCmwrSxDatB.nmSmWtLXA84.mUQfNoG90vCHSZrchwy",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Quesway",
+        "identifier": "fivem:4756495",
+        "data": {}
+      },
+      "discord": {
+        "id": "1023733342346166305",
+        "identifier": "discord:1023733342346166305",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "HighRise RP"
+  },
+  "server": {
+    "dataPath": "C:/Users/marvi/Desktop/FiveM Server/txData/QBCore_957D47.base/"
+  }
+}

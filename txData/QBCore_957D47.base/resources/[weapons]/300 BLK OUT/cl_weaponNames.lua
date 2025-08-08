@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_300BO", "300 BLK OUT")
